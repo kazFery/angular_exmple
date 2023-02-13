@@ -1,0 +1,14 @@
+
+#header {
+  background-color: rgb(49, 208, 49);
+  color: bisque;
+  height: 30px;
+}
+
+#main {
+  margin: 10px;
+}
+
+#footer {
+  height: 10%;
+}
